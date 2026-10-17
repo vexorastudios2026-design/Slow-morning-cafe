@@ -211,7 +211,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenWhatsApp }) => {
                 <span>Enquire on WhatsApp</span>
               </button>
               <div className="text-center text-xs text-[#8A7D73]">
-                Concept demo · Tohana, Haryana, India
+                Concept demo · XYZ
               </div>
             </div>
           </div>

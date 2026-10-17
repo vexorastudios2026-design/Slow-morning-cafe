@@ -23,7 +23,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreMenu, onOpenWhatsApp }) => 
             {/* Pill Eyebrow */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#E8DFD5]/80 border border-[#D8CCC0] text-xs font-medium tracking-wide text-[#503A2D]">
               <Sparkles className="w-3.5 h-3.5 text-[#7E8B76]" />
-              <span>Artisanal Coffee & Slow Living in Tohana</span>
+              <span>Artisanal Coffee & Slow Living in XYZ</span>
             </div>
 
             {/* Main Headline */}

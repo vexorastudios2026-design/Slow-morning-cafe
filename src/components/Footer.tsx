@@ -23,7 +23,7 @@ export const Footer: React.FC = () => {
                   {CAFE_CONFIG.brand.name}
                 </span>
                 <span className="block text-[10px] uppercase tracking-widest text-[#A8BBA2] font-semibold">
-                  Tohana, Haryana, India
+                  XYZ
                 </span>
               </div>
             </div>

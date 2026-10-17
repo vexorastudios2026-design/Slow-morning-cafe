@@ -50,7 +50,7 @@ export const OurStory: React.FC = () => {
             </p>
 
             <p className="text-sm sm:text-base text-[#6E6259] leading-relaxed">
-              Every morning in Tohana begins in quiet stillness. Before the sun crests the rooftops, the aroma of stone-ground Arabica and warm yeast drifts from our ovens. We grind beans in small batches, calibrate our water to exact micro-temperatures, and steam whole dairy into silky cloud foam.
+              Every morning in XYZ begins in quiet stillness. Before the sun crests the rooftops, the aroma of stone-ground Arabica and warm yeast drifts from our ovens. We grind beans in small batches, calibrate our water to exact micro-temperatures, and steam whole dairy into silky cloud foam.
             </p>
 
             <p className="text-sm sm:text-base text-[#6E6259] leading-relaxed">

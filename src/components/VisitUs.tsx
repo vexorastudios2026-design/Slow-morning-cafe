@@ -21,7 +21,7 @@ export const VisitUs: React.FC<VisitUsProps> = ({ onOpenWhatsApp }) => {
             Welcoming You
           </span>
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold text-[#281C15] tracking-tight">
-            Visit Our Tohana Corner
+            Visit Our XYZ Corner
           </h2>
           <p className="mt-4 text-base text-[#6E6259]">
             A quiet haven designed for slow mornings and peaceful afternoons. Here is where you can find our doors and table hours.
@@ -55,7 +55,7 @@ export const VisitUs: React.FC<VisitUsProps> = ({ onOpenWhatsApp }) => {
                 {CAFE_CONFIG.contact.address}
               </p>
               <p className="text-xs text-[#8A7D73] mt-2">
-                Sample portfolio address (Tohana, Haryana, India)
+                Sample portfolio address (XYZ)
               </p>
             </div>
 
